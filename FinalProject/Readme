@@ -1,3 +1,5 @@
 This is the final submission of the code, screenshots, and graphs for the Final Project for UF EEL6935 Big Data Ecosystems course by team T1-NewGAN. 
 
+All hyperparameters experimented and used have been noted in the excel sheet named 'HyperparameterSheet.xlsx'.
+
 NOTE: All the codes assume that the datasets are already downloaded.
