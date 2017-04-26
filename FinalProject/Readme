@@ -2,4 +2,15 @@ This is the final submission of the code, screenshots, and graphs for the Final 
 
 All hyperparameters experimented and used have been noted in the excel sheet named 'HyperparameterSheet.xlsx'.
 
-NOTE: All the codes assume that the datasets are already downloaded.
+Steps to Run:
+
+Step 1: All the codes assume that the datasets are already downloaded.
+
+Step 2: Once Step 1 is complete, simply run the files. No changes needed.
+
+Step 3: Written in Keras v2.0 with TensorFlow 1.0. 
+  - Any library core updates might break the code.
+  - Older versions will give different/wrong output.
+
+NOTE: The GAN models take a very long time converge (> 10000 epochs). Therefore, it is better to run on GPUs. Also, for about 600-700 eopchs, 
+the output generated don't make much sense.
