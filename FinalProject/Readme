@@ -12,4 +12,4 @@ Step 3: Written in Keras v2.0 with TensorFlow 1.0.
   - Any library core updates might break the code.
   - Older versions will give different/wrong output.
 
-NOTE: The GAN models take a very long time converge (> 10000 epochs, avg epoch time = ~ 6sec). Therefore, it is better to run on GPUs. Also, for about 600-700 eopchs, the output generated don't make much sense.
+NOTE: The GAN models take a very long time converge (> 10000 epochs, avg epoch time = ~ 6sec). Therefore, it is better to run on GPUs. Also, for about 600-700 eopchs, the outputs generated don't make much sense.
